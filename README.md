@@ -19,5 +19,6 @@ Email: [raghavendrak8133@gmail.com]
 LinkedIn: [Raghavendra K]
 
 Twitter: [@Raghavendra_K25]
+
 -⚡ Fun Fact:
   I love blending technology with creativity, and I'm always up for a good challenge!
