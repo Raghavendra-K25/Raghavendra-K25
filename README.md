@@ -1,5 +1,5 @@
- -Hi👋 I'm Raghavendra K, A first-year B.Tech student majoring in
-      Artificial Intelligence & Machine Learning. 
+ -Hi👋 I'm Raghavendra K, A first-year B.Tech student majoring in<br>
+      Artificial Intelligence & Machine Learning.<br>
      I am passionate about leveraging the power of AI to solve real-world problems and create innovative solutions.
 
 -🔭 Current Interests:<br>
