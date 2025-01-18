@@ -2,10 +2,10 @@
       Artificial Intelligence & Machine Learning. 
      I am passionate about leveraging the power of AI to solve real-world problems and create innovative solutions.
 
--🔭 Current Interests:
-Artificial Intelligence & Machine Learning: Exploring the depths of AI and ML algorithms and their applications.
-Coding Projects: Constantly working on new and exciting coding projects to sharpen my skills and learn new technologies.
-Data Science: Analyzing and interpreting complex data to drive decision-making and innovation.
+-🔭 Current Interests:<br>
+Artificial Intelligence & Machine Learning: Exploring the depths of AI and ML algorithms and their applications.<br>
+Coding Projects: Constantly working on new and exciting coding projects to sharpen my skills and learn new technologies.<br>
+Data Science: Analyzing and interpreting complex data to drive decision-making and innovation.<br>
 
 -🌱 I’m Currently Learning:
   Advanced machine learning techniques.
